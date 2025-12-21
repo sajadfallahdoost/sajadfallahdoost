@@ -1,5 +1,7 @@
 # 💫 About Me:
-🚀 As a Senior Backend Developer with over 6 years of hands-on experience, I specialize in designing, developing, and maintaining stable, efficient, and scalable systems. My expertise spans national projects in telecommunications, e-commerce, and data management, delivering enhanced system efficiency, faster processing, and superior user experiences.<br>🤝 I'm eager to collaborate on innovative backend projects, especially those leveraging cutting-edge technologies like microservices, fault-tolerant architectures, and API integrations.<br>📚 Currently honing my skills in advanced tools such as Grafana for monitoring, RabbitMQ for messaging, and Celery for task queuing, while deepening my knowledge in Linux 🐧 and FastAPI 🚀. With substantial Django experience over the past years, I'm passionate about staying ahead in the ever-evolving backend landscape.<br>🔍 Seeking insights on the latest backend trends—let's connect and innovate together! 🌟<br>🎓 Bachelor of Computer Science from Islamic Azad University, Science and Research Branch. Proficient in English.
+
+“I’m learning and trying to learn new things every day. There’s a lot I still need to learn.”
+AD:)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/https://discord.com/invite/1109501913122230444) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sajad-fallahdoost/) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sajadfallahdoost)
